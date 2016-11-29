@@ -92,7 +92,7 @@
   - include: includes/mariadb_ubuntu.yml
 
   # install WKHTMLtoPDF
-  - include: includes/wkhtmltopdf.yml
+  #- include: includes/wkhtmltopdf.yml
 
   # setup MariaDB
   - include: includes/setup_mariadb.yml
